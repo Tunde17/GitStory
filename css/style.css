@@ -1,0 +1,10 @@
+html   {
+    font-size:15px;
+    font-family:Verdana, Arial, sans-serif;
+}
+
+body {
+    margin-left:15rem;
+    margin-right:15rem;
+    background-color: antiquewhite;
+}
