@@ -8,3 +8,9 @@ body {
     margin-right:15rem;
     background-color: antiquewhite;
 }
+
+img {
+    float: right;
+    border: solid black;
+    border-width: 0.5rem;
+}
