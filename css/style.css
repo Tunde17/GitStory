@@ -9,8 +9,18 @@ body {
     background-color: antiquewhite;
 }
 
-img {
+.recipe_photo {
     float: right;
     border: solid black;
     border-width: 0.5rem;
+}
+
+.banner {
+    border:solid black;
+    border-width:0.2rem;
+}
+
+footer{
+    text-align: center;
+    font-size: 0.6rem;
 }
